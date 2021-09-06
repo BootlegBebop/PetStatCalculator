@@ -1,0 +1,17 @@
+body{
+    background-color: darkslateblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.stats{
+    text-align: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+.outputs{
+    text-align: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+}
